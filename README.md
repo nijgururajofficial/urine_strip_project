@@ -7,7 +7,6 @@ Urine Strip Analyzer is a web application that allows users to upload an image o
 - Upload an image of a urine strip.
 - Analyze the image to detect the colors on the strip.
 - Return the RGB values of the detected colors as a JSON response.
-- Store the analyzed colors in a database.
 
 ## Technologies Used
 
