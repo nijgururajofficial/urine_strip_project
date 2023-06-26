@@ -35,7 +35,6 @@ Urine Strip Analyzer is a web application that allows users to upload an image o
    ```bash
    python manage.py runserver
 
-
 ## Screenshots
 
 Here are some screenshots of the Urine Strip Analyzer in action:
